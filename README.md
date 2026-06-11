@@ -239,7 +239,7 @@ The Code Review Feedback Generator provides an efficient and intelligent way to 
 
 ## Author
 
-**Name:** [Your Name]
+**Name:Akhila Pullagurla
 
 **Organization:** Innomatics Research Labs
 
